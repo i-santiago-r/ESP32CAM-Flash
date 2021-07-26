@@ -7,8 +7,10 @@
 //LED Flash del ESP32CAM. Este programa parte del
 //hecho de que cuentas con la base programadora.
 
+//ejemplo de modificación
+//Israel santiago
 //Definición de pines
-#define LAMP 4 //Se selecciona 
+#define LAMP 5 //Se selecciona 
 
 //Inicialización del programa
 void setup() //Estructura principal
